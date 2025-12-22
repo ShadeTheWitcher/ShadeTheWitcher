@@ -41,36 +41,38 @@ Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me est
 
 ## 🛠 Proyectos Destacados
 
-### Porfolio Personal Node.js + React Dockerizado
+<h3 align="center">Portafolio Personal Node.js + React Dockerizado</h3>
 
 <div align="center">
-
-  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/home.PNG?raw=true" alt="Pantalla 1" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/proyectos.PNG?raw=true" alt="Pantalla 2" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-
-  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/About.PNG?raw=true" alt="Pantalla 3" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/gestionProyectos.PNG?raw=true" alt="Pantalla 4" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/home.PNG?raw=true" alt="Referencia visual" width="400" /></td>
+      <td align="center"><img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/proyectos.PNG?raw=true" alt="Referencia visual" width="400" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/About.PNG?raw=true" alt="Referencia visual" width="400" /></td>
+      <td align="center"><img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/gestionProyectos.PNG?raw=true" alt="Referencia visual" width="400" /></td>
+    </tr>
+  </table>
 </div>
 
-Breve descripción: Aplicación web para mostrar mis proyectos y experiencia laboral con tecnologías modernas como React, Node.js y Docker. Tambien esta deployada en Render y Supabase.  
+Breve descripción: Aplicación web para mostrar mis proyectos y experiencia laboral con tecnologías modernas como React, Node.js y Docker. Tambien esta deployada en Render y Supabase.
+Tecnologías usadas: React, Node.js, Docker, Render, Supabase.
 [📂 Código fuente](https://github.com/ShadeTheWitcher/Portfolio-docker-stack)
 [🌐 Demo](https://porfolio-lovato-matias.onrender.com)
 
 
 
-### Punto de Venta Cybergear .NET
+<h3 align="center">Punto de Venta Cybergear .NET</h3>
 
 <div align="center">
-
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/punto-de-venta-cybergear/home.png" alt="Pantalla 1" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/punto-de-venta-cybergear/catalogo.png" alt="Pantalla 2" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/punto-de-venta-cybergear/reporte.png" alt="Pantalla 3" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/punto-de-venta-cybergear/home.png" alt="Pantalla 1" width="300" /></td>
+      <td align="center"><img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/punto-de-venta-cybergear/catalogo.png" alt="Pantalla 2" width="300" /></td>
+      <td align="center"><img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/punto-de-venta-cybergear/reporte.png" alt="Pantalla 3" width="300" /></td>
+    </tr>
+  </table>
 </div>
 
 Breve descripción: Aplicación de escritorio para punto de venta que permite gestionar usuarios, productos y carrito de compras, además de generar reportes de ventas y estadísticas detalladas.
@@ -79,17 +81,19 @@ Tecnologías usadas: C#, .NET, MySQL.
 
 
 
-### Web Ecommerce GFA
+<h3 align="center">Web Ecommerce GFA</h3>
+
 <div align="center">
-
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/home.png" alt="Pantalla 1" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/catalogo.png" alt="Pantalla 2" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/login.png" alt="Pantalla 3" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/carrito.png" alt="Pantalla 4" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
-
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/home.png" alt="Pantalla 1" width="400" /></td>
+      <td align="center"><img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/catalogo.png" alt="Pantalla 2" width="400" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/login.png" alt="Pantalla 3" width="400" /></td>
+      <td align="center"><img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/gfa-ecommerce/carrito.png" alt="Pantalla 4" width="400" /></td>
+    </tr>
+  </table>
 </div>
 Breve descripción: E-commerce web que incluye sistema de login, gestión de productos y ventas, integración con base de datos y generación de reportes de ventas para el control y análisis del negocio.
 Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.  
@@ -102,6 +106,9 @@ Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadethewitcher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadethewitcher&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -120,18 +127,3 @@ Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shadethewitcher&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-
-<!--
-**ShadeTheWitcher/ShadeTheWitcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
