@@ -58,8 +58,14 @@ Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me est
 
 Breve descripción: Aplicación web para mostrar mis proyectos y experiencia laboral con tecnologías modernas como React, Node.js y Docker. Tambien esta deployada en Render y Supabase.
 Tecnologías usadas: React, Node.js, Docker, Render, Supabase.
-[📂 Código fuente](https://github.com/ShadeTheWitcher/Portfolio-docker-stack)
-[🌐 Demo](https://porfolio-lovato-matias.onrender.com)
+<p align="center">
+  <a href="https://github.com/ShadeTheWitcher/Portfolio-docker-stack" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo"/>
+  </a>
+  <a href="https://porfolio-lovato-matias.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Ver_Online-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"/>
+  </a>
+</p>
 
 
 
@@ -77,7 +83,11 @@ Tecnologías usadas: React, Node.js, Docker, Render, Supabase.
 
 Breve descripción: Aplicación de escritorio para punto de venta que permite gestionar usuarios, productos y carrito de compras, además de generar reportes de ventas y estadísticas detalladas.
 Tecnologías usadas: C#, .NET, MySQL.  
-[📂 Código fuente](https://github.com/ShadeTheWitcher/Punto_de_Venta_VisualStudio)
+<p align="center">
+  <a href="https://github.com/ShadeTheWitcher/Punto_de_Venta_VisualStudio" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo"/>
+  </a>
+</p>
 
 
 
@@ -97,7 +107,11 @@ Tecnologías usadas: C#, .NET, MySQL.
 </div>
 Breve descripción: E-commerce web que incluye sistema de login, gestión de productos y ventas, integración con base de datos y generación de reportes de ventas para el control y análisis del negocio.
 Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.  
-[📂 Código fuente](https://github.com/ShadeTheWitcher/proyecto_lovato_matias)
+<p align="center">
+  <a href="https://github.com/ShadeTheWitcher/proyecto_lovato_matias" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo"/>
+  </a>
+</p>
 
 ---
 
