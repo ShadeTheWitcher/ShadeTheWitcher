@@ -57,7 +57,7 @@ Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me est
 
 Breve descripción: Aplicación web para mostrar mis proyectos y experiencia laboral con tecnologías modernas como React, Node.js y Docker. Tambien esta deployada en Render y Supabase.  
 [📂 Código fuente](https://github.com/ShadeTheWitcher/Portfolio-docker-stack)
-[🌐 Demo](https://porfolio-lovato-matias.onrender.com/proyectos)
+[🌐 Demo](https://porfolio-lovato-matias.onrender.com)
 
 
 
