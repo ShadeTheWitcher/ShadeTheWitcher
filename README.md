@@ -45,14 +45,14 @@ Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me est
 
 <div align="center">
 
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/porfolio-react-docker/home.PNG" alt="Pantalla 1" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
+  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/home.PNG?raw=true" alt="Pantalla 1" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
 
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/porfolio-react-docker/proyectos.PNG" alt="Pantalla 2" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
+  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/proyectos.PNG?raw=true" alt="Pantalla 2" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
 
 
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/porfolio-react-docker/About.PNG" alt="Pantalla 3" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
+  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/About.PNG?raw=true" alt="Pantalla 3" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
 
-  <img src="https://github.com/shadethewitcher/ShadeTheWitcher/raw/main/img/porfolio-react-docker/gestionProyectos.PNG" alt="Pantalla 4" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
+  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/blob/main/img/portfolio-react-docker/gestionProyectos.PNG?raw=true" alt="Pantalla 4" width="300" style="display:inline-block; vertical-align:top; height:200px; object-fit:cover; margin: 0 5px;" />
 </div>
 
 Breve descripción: Aplicación web para mostrar mis proyectos y experiencia laboral con tecnologías modernas como React, Node.js y Docker. Tambien esta deployada en Render y Supabase.  
