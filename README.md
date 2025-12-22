@@ -60,10 +60,11 @@ Breve descripción: Aplicación web para mostrar mis proyectos y experiencia lab
 Tecnologías usadas: React, Node.js, Docker, Render, Supabase.
 <p align="center">
   <a href="https://github.com/ShadeTheWitcher/Portfolio-docker-stack" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo"/>
+    <img src="https://img.shields.io/badge/GITHUB-Código_Fuente-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://porfolio-lovato-matias.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-Ver_Online-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"/>
+    <img src="https://img.shields.io/badge/WEBSITE-Ver_Demo-4f46e5?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
   </a>
 </p>
 
@@ -85,7 +86,7 @@ Breve descripción: Aplicación de escritorio para punto de venta que permite ge
 Tecnologías usadas: C#, .NET, MySQL.  
 <p align="center">
   <a href="https://github.com/ShadeTheWitcher/Punto_de_Venta_VisualStudio" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo"/>
+    <img src="https://img.shields.io/badge/GITHUB-Código_Fuente-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
   </a>
 </p>
 
@@ -109,7 +110,7 @@ Breve descripción: E-commerce web que incluye sistema de login, gestión de pro
 Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.  
 <p align="center">
   <a href="https://github.com/ShadeTheWitcher/proyecto_lovato_matias" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo"/>
+    <img src="https://img.shields.io/badge/GITHUB-Código_Fuente-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
   </a>
 </p>
 
@@ -122,7 +123,7 @@ Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadethewitcher&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
