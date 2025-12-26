@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/9131/9131529.png" alt="Developer Logo" width="200"/>
   
-  <h1>👋 ¡Hola! Soy Matías Lovato</h1>
+  <h1>¡Hola! Soy Matías Lovato</h1>
+  <p><img src="https://img.shields.io/badge/Full_Stack_Developer-4f46e5?style=for-the-badge" alt="Full Stack Developer"/> <img src="https://img.shields.io/badge/SAP_BTP_Student-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP"/></p>
   
   <p>
     <a href="https://www.linkedin.com/in/shadethewitcher" target="_blank">
@@ -14,14 +15,14 @@
   </p>
 </div>
 
-## 🚀 Sobre Mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Developer" width="25" height="25" /> Sobre Mí
 
 Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me estoy formando como desarrollador **Full Stack**. Me encanta todo lo que tenga que ver con tecnología, aprender cosas nuevas y seguir mejorando cada día. Actualmente también estoy aprendiendo sobre **SAP BTP** y **SAP HANA Cloud**, lo que me permite profundizar en tecnologías de nube y bases de datos en tiempo real, ampliando mis conocimientos para el desarrollo de aplicaciones empresariales modernas y escalables.
 
 
 ---
 
-### 💡 Tecnologías y Herramientas
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tecnologías y Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -31,6 +32,9 @@ Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me est
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
@@ -40,7 +44,7 @@ Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me est
 
 ---
 
-## 🛠 Proyectos Destacados
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="25" height="25" /> Proyectos Destacados
 
 <h3 align="center">Portafolio Personal Node.js + React Dockerizado</h3>
 
@@ -117,7 +121,7 @@ Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" height="25" /> Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shadethewitcher&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
@@ -134,7 +138,7 @@ Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.
 
 ---
 
-## 📫 ¡Conectemos!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /> ¡Conectemos!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shadethewitcher" target="_blank">
