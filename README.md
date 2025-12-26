@@ -25,6 +25,7 @@ Estoy estudiando la carrera de Licenciatura en Sistemas de Información y me est
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -119,9 +120,14 @@ Tecnologías usadas: HTML, CSS, Codeigniter, PHP y Bootstrap.
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadethewitcher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadethewitcher&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shadethewitcher&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadethewitcher&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight"/>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shadethewitcher&amp;theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
 <div align="center">
   <img src="https://github.com/ShadeTheWitcher/ShadeTheWitcher/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
